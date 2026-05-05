@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yeiso\\OneDrive\\Escritorio\\web-api-prueba\\web-api-prueba\\web-api-prueba.csproj": {}
+    "C:\\Users\\yeiso\\OneDrive\\Escritorio\\prueba\\web-api-prueba\\web-api-prueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yeiso\\OneDrive\\Escritorio\\web-api-prueba\\web-api-prueba\\web-api-prueba.csproj": {
+    "C:\\Users\\yeiso\\OneDrive\\Escritorio\\prueba\\web-api-prueba\\web-api-prueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yeiso\\OneDrive\\Escritorio\\web-api-prueba\\web-api-prueba\\web-api-prueba.csproj",
+        "projectUniqueName": "C:\\Users\\yeiso\\OneDrive\\Escritorio\\prueba\\web-api-prueba\\web-api-prueba.csproj",
         "projectName": "web-api-prueba",
-        "projectPath": "C:\\Users\\yeiso\\OneDrive\\Escritorio\\web-api-prueba\\web-api-prueba\\web-api-prueba.csproj",
+        "projectPath": "C:\\Users\\yeiso\\OneDrive\\Escritorio\\prueba\\web-api-prueba\\web-api-prueba.csproj",
         "packagesPath": "C:\\Users\\yeiso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yeiso\\OneDrive\\Escritorio\\web-api-prueba\\web-api-prueba\\obj\\",
+        "outputPath": "C:\\Users\\yeiso\\OneDrive\\Escritorio\\prueba\\web-api-prueba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yeiso\\AppData\\Roaming\\NuGet\\NuGet.Config"

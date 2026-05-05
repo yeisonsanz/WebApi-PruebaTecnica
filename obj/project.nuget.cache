@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GIL+Kbqhruw=",
+  "dgSpecHash": "Tv9hjyj8cJk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yeiso\\OneDrive\\Escritorio\\web-api-prueba\\web-api-prueba\\web-api-prueba.csproj",
+  "projectFilePath": "C:\\Users\\yeiso\\OneDrive\\Escritorio\\prueba\\web-api-prueba\\web-api-prueba.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yeiso\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
     "C:\\Users\\yeiso\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
