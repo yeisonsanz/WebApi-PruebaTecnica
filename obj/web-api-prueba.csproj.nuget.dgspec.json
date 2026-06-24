@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yeiso\\OneDrive\\Escritorio\\prueba\\web-api-prueba\\web-api-prueba.csproj": {}
+    "C:\\Users\\yeiso\\OneDrive\\Documentos\\Universidad\\WebApi-PruebaTecnica\\web-api-prueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yeiso\\OneDrive\\Escritorio\\prueba\\web-api-prueba\\web-api-prueba.csproj": {
+    "C:\\Users\\yeiso\\OneDrive\\Documentos\\Universidad\\WebApi-PruebaTecnica\\web-api-prueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yeiso\\OneDrive\\Escritorio\\prueba\\web-api-prueba\\web-api-prueba.csproj",
+        "projectUniqueName": "C:\\Users\\yeiso\\OneDrive\\Documentos\\Universidad\\WebApi-PruebaTecnica\\web-api-prueba.csproj",
         "projectName": "web-api-prueba",
-        "projectPath": "C:\\Users\\yeiso\\OneDrive\\Escritorio\\prueba\\web-api-prueba\\web-api-prueba.csproj",
+        "projectPath": "C:\\Users\\yeiso\\OneDrive\\Documentos\\Universidad\\WebApi-PruebaTecnica\\web-api-prueba.csproj",
         "packagesPath": "C:\\Users\\yeiso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yeiso\\OneDrive\\Escritorio\\prueba\\web-api-prueba\\obj\\",
+        "outputPath": "C:\\Users\\yeiso\\OneDrive\\Documentos\\Universidad\\WebApi-PruebaTecnica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yeiso\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -38,15 +39,32 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[10.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.8, )"
             }
           },
           "imports": [
@@ -68,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
